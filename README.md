@@ -7,15 +7,32 @@
 <a href="https://app.daily.dev/HiddenEye">
   <img src="https://api.daily.dev/devcards/c11b86b7db464b47a0a7c5aa8ee131bc.png?r=c27" width="400" alt="HiddenEye's Dev Card"/>
 </a>
+<p width="300">
+- 🔭 I’m currently working on ...Forntend.<br>
+- 🌱 I’m currently learning ...Blockchain.<br>
+- 👯 I’m looking to collaborate on ...with my rival.<br>
+- 🤔 I’m looking for help  ... to improve my skills.<br>
+- 💬 Ask me about ...everything that I know.<br>
+- 📫 How to reach me: ...live:.cid.e27aecdadfe9ae1b<br>
+- 😄 Pronouns: ...everything<br>
+- ⚡ Fun fact: ...I am the best of the best, The best more than the best<br><li>
+Love to build well-structured, clean code and clean repositories with maintainable and scalable structure,
+functional programming.<br></li><li>
+When working with me you can expect a professional, prompt and friendly service.<br></li><li>
+I have 6+ years of experience in React and React Native development and these are my main skills.<br></li><li>
+On the other hand I have 3+ years of experience in Angular and Vue.<br></li><li>
+In addition to these, I can provide you backend development with Express, Nest, Nuxt and Laravel.<br></li><br><b>
+Full Stack Developer</b> with 6+ years of hands-on experience designing, developing, and implementing applications and
+solutions using a range of technologies and programming languages.<br>Seeking to leverage broad development
+experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
 
-<p width="400">
-  <p width="400">
-    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
+<h6>Results-driven developer with a successful track record in exceeding expectations for web development initiatives</h6>
+</p>
+<!-- <p width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="29%" />
-  </P
-  
-</p>
+</p> -->
 <!-- <p align="right" width="40%">
     <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
