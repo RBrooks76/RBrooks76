@@ -16,20 +16,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=false" width="34.5%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=false" width="29%" />
 </p>
+
 <p align="center" width="100%"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76" alt="RBrooks76" />
   </a> 
 </p>
-
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a> 
-</p>
-
-<h3 align="left">Connect with me:</h3>
-  <p align="left"></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="left"> 
@@ -133,4 +125,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
 </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
+</div>
 
