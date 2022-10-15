@@ -11,17 +11,6 @@
     <img src="https://api.daily.dev/devcards/c11b86b7db464b47a0a7c5aa8ee131bc.png?r=c27" width="400" alt="HiddenEye's Dev Card"/>
   </a>
 </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=false" width="34.5%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=false" width="34.5%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=false" width="29%" />
-</p>
-
-<p align="center" width="100%"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76" alt="RBrooks76" />
-  </a> 
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="left"> 
