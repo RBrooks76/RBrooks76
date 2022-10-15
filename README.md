@@ -13,6 +13,7 @@
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&&theme=radical&hide_border=true" alt="cryptoguy55" width="34.5%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="29%" />
 </p>
@@ -22,10 +23,10 @@
 
 <div align="center">
   <a href="https://github.com/rajel718">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rajel718&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajel718&layout=compact&langs_count=7&theme=gruvbox" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RBrooks76&layout=compact&langs_count=7&theme=gruvbox" />
   </a>
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajel718&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
