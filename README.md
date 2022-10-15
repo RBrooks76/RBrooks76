@@ -16,7 +16,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&&theme=vue&hide_border=true" alt="RBrooks76" width="34.5%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="29%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&theme=react&border=61dafb&hide_border=true" alt="RBrooks76" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&theme=react&bg_color=0e2239&border=61dafb&hide_border=false" alt="RBrooks76" />
   
     <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=vue&border_color=61dafb&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
