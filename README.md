@@ -13,7 +13,7 @@
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&&theme=radical&hide_border=true" alt="cryptoguy55" width="34.5%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&&theme=radical&hide_border=true" alt="cryptoguy55" width="34.5%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="29%" />
 </p>
