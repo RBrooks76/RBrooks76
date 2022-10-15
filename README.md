@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rbrooks76&label=Profile%20views&color=0e75b6&style=flat" alt="rbrooks76" /> 
+  <img src="https://komarev.com/ghpvc/?username=rbrooks76&label=Profile%20views&color=58a6ff&style=flat" alt="RBrooks76" /> 
 </p>
 <p align="center">
   <a href="https://github.com/HOT-DEV">
