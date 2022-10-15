@@ -14,7 +14,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=react&border=61dafb&hide_border=false" width="34.5%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&&theme=react&border=61dafb&hide_border=false" alt="RBrooks76" width="34.5%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&theme=react&border=61dafb&hide_border=true" width="29%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&theme=react&layout=compact&border=61dafb&hide_border=true" width="29%" />
   
     <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=vue&border_color=61dafb&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
