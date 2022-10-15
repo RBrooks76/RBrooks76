@@ -17,7 +17,7 @@
 <h2 align="center" id="macropower-tech">Github Stats  </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=7&theme=gruvbox&border_color=61dafb&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=react&border_color=61dafb&hide_border=false" width="34.5%" />
