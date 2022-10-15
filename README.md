@@ -16,6 +16,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="29%" />
 </p>
+
+ <h2 align="center" id="macropower-tech">Github Stats  </h2>
+
 <div align="center">
   <a href="https://github.com/rajel718">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rajel718&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
