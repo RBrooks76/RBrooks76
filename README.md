@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/HOT-DEV">
-    <img src="https://readme-typing-svg.herokuapp.com/?                             lines=Web%20,%20Mobile%20and%20Unity%20Engineer&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20,%20Mobile%20and%20Unity%20Engineer&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
 </p>
 <p align="center">
