@@ -12,9 +12,9 @@
   </a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="29%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=false" width="34.5%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=false" width="34.5%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=false" width="29%" />
 </p>
 <p>
   
@@ -141,13 +141,4 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rbrooks76&show_icons=true&locale=en&layout=compact" alt="rbrooks76" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbrooks76&show_icons=true&locale=en" alt="rbrooks76" />
-</p>
-
 
