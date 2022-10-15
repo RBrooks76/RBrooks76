@@ -17,10 +17,13 @@
 <h2 align="center" id="macropower-tech">Github Stats  </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=7&theme=vue&border=61dafb&no-frame=true&margin-w=3&margin-h=5"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&show_icons=true&theme=react&border=61dafb&hide_border=false" alt="RBrooks76" width="60%"/>
 </div>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=react&border_color=61dafb&hide_border=false" width="34.5%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&show_icons=true&theme=react&border=61dafb&hide_border=false" alt="RBrooks76" width="34.5%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&theme=react&layout=compact&border_color=61dafb&hide_border=false" width="28.8%" />
-</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=react&border_color=61dafb&hide_border=false" width="54.25%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&theme=react&layout=compact&border_color=61dafb&hide_border=false" width="45.25%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=7&theme=gruvbox&border=61dafb&no-frame=true&margin-w=3&margin-h=5"/>
+</div>
