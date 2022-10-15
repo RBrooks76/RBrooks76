@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<a href="https://metrics.lecoq.io/embed?user=RBrooks76">
+<img src="/github-metrics.svg" alt="Metrics" with="100%">
+ </a>
+
 > Programming languages.
 
 <h3 align="center">Languages and Tools:</h3>
