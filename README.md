@@ -3,10 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20,%20Blockchain%20and%20Unity%20Engineer&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
 </p> -->
-
+  <p>
   <a href="https://app.daily.dev/HiddenEye">
     <img src="https://api.daily.dev/devcards/c11b86b7db464b47a0a7c5aa8ee131bc.png?r=c27" width="400" alt="HiddenEye's Dev Card"/>
   </a>
+  </p>
   <p width="400">
     <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
   </p>
@@ -33,11 +34,11 @@
 </p>
 <p>
   
-</p> -->
+</p>
 
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<<!-- p align="left">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=rbrooks76&label=Profile%20views&color=0e75b6&style=flat" alt="rbrooks76" /> 
 </p>
 
