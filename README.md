@@ -1,37 +1,14 @@
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/HOT-DEV">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20,%20Blockchain%20and%20Unity%20Engineer&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20,%20Mobile%20and%20Unity%20Engineer&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
-</p> -->
-<div>
-  <div>
-    <a href="https://app.daily.dev/HiddenEye">
-      <img src="https://api.daily.dev/devcards/c11b86b7db464b47a0a7c5aa8ee131bc.png?r=c27" width="400" alt="HiddenEye's Dev Card"/>
-    </a>
-  </div>
-  <div>
-    <p width="400"> 
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
-    </p>
-    <p width="400">
-      <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
-    </p>
-    <p width="400">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
-    </p>
-  </div>
-</div>
-<!-- <p align="right" width="40%">
-    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="29%" />
 </p>
-<p align="right" width="40%">
-    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="29%" />
+<p align="center">
+  <a href="https://app.daily.dev/HiddenEye">
+    <img src="https://api.daily.dev/devcards/c11b86b7db464b47a0a7c5aa8ee131bc.png?r=c27" width="400" alt="HiddenEye's Dev Card"/>
+  </a>
 </p>
-<p align="right" width="40%">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbrooks76&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="34.5%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="29%" />
@@ -40,7 +17,7 @@
   
 </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rbrooks76&label=Profile%20views&color=0e75b6&style=flat" alt="rbrooks76" /> 
@@ -135,7 +112,7 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
@@ -171,5 +148,5 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbrooks76&show_icons=true&locale=en" alt="rbrooks76" />
 </p>
- -->
+
 
