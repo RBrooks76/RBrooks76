@@ -24,9 +24,9 @@
 
 
 
-<p align="left"> 
+<p align="center" width="100%"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76" alt="rbrooks76" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76" alt="RBrooks76" />
   </a> 
 </p>
 <!-- 
