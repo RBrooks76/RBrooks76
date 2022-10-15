@@ -17,6 +17,7 @@
  </a>
 
 > Programming languages.
+  <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="left"> 
