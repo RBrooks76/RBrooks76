@@ -11,27 +11,16 @@
     <img src="https://api.daily.dev/devcards/c11b86b7db464b47a0a7c5aa8ee131bc.png?r=c27" width="400" alt="HiddenEye's Dev Card"/>
   </a>
 </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=react&border_color=61dafb&hide_border=false" width="34.5%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&show_icons=true&theme=react&border=61dafb&hide_border=false" alt="RBrooks76" width="34.5%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&theme=react&layout=compact&border_color=61dafb&hide_border=false" width="28.75%" />
-  
-    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=vue&border_color=61dafb&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=angular&border_color=61dafb&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=javascript&border_color=61dafb&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=javascript&border_color=61dafb&hide_border=true" />
-</p>
+
 
 <br><br><br>
 <h2 align="center" id="macropower-tech">Github Stats  </h2>
 
 <div align="center">
-  <a href="https://github.com/rajel718">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RBrooks76&layout=compact&langs_count=7&theme=gruvbox" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=7&theme=react&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=RBrooks76&show_icons=true&theme=react&border_color=61dafb&hide_border=false" width="34.5%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&show_icons=true&theme=react&border=61dafb&hide_border=false" alt="RBrooks76" width="34.5%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RBrooks76&theme=react&layout=compact&border_color=61dafb&hide_border=false" width="28.8%" />
+</p>
