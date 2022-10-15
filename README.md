@@ -14,7 +14,7 @@
 
 
 <br><br><br>
-<h2 align="center" id="macropower-tech">Github Stats  </h2>
+<h2 align="center" id="macropower-tech">Github Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&show_icons=true&theme=react&border=61dafb&hide_border=false" alt="RBrooks76" width="60%"/>
@@ -25,5 +25,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=7&theme=gruvbox&border=61dafb&no-frame=true&margin-w=3&margin-h=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=10&theme=gruvbox&border=61dafb&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
