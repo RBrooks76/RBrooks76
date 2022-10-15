@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rbrooks76&label=Profile%20views&color=0e75b6&style=flat" alt="rbrooks76" /> 
+</p>
 <p align="center">
   <a href="https://github.com/HOT-DEV">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20,%20Mobile%20and%20Unity%20Engineer&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22">
@@ -19,9 +22,7 @@
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rbrooks76&label=Profile%20views&color=0e75b6&style=flat" alt="rbrooks76" /> 
-</p>
+
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
