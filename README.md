@@ -12,6 +12,8 @@
   </a>
 </p>
 
+> Programming languages.
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
