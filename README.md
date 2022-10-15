@@ -1,8 +1,8 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rbrooks76&label=Profile%20views&color=58a6ff&style=flat" alt="RBrooks76" /> 
+  <img src="https://komarev.com/ghpvc/?username=rbrooks76&label=Profile%20views&color=58a6ff&style=Pacifico" alt="RBrooks76" /> 
 </p>
 <p align="center">
-  <a href="https://github.com/HOT-DEV">
+  <a href="https://github.com/RBrooks76">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20,%20Mobile%20and%20Unity%20Engineer&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
 </p>
