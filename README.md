@@ -30,7 +30,8 @@
 </div>
 
 
-<h2 align="left" id="macropower-tech">Github Stats</h2>
- ![GitHub metrics](https://metrics.lecoq.io/RBrooks76)
+## Activties
+
+![GitHub metrics](https://metrics.lecoq.io/RBrooks76)
 
 <img width=100% title="Coder Abhi." alt="RBrooks76" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
