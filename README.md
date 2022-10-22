@@ -1,4 +1,4 @@
-<img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=THANK-YOU-FOR-YOUR-VISTING-MY-PROFILE🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=THANK-YOU-FOR-YOUR-VISTING🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=rbrooks76&label=Profile%20views&color=0e75b6&style=flat" alt="rbrooks76" /> 
 </div>
