@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=7&theme=gruvbox&border=61dafb&no-frame=true&margin-w=3&margin-h=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=8&theme=gruvbox&border=61dafb&no-frame=false&margin-w=3&margin-h=5"/>
 </div>
 
 <img align="center" src="https://metrics.lecoq.io/RBrooks76"/>
