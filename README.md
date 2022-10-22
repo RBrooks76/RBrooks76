@@ -15,7 +15,7 @@
 
 
 <br><br><br>
-<h2 align="center" id="macropower-tech">Github Stats</h2>
+<h2 align="left" id="macropower-tech">Github Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBrooks76&show_icons=true&theme=react&border=61dafb&hide_border=false" alt="RBrooks76" width="60%"/>
