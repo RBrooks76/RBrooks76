@@ -1,3 +1,4 @@
+<img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Thank you for your visiting my profile🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=rbrooks76&label=Profile%20views&color=0e75b6&style=flat" alt="rbrooks76" /> 
 </div>
@@ -27,8 +28,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=7&theme=gruvbox&border=61dafb&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
-
-<img align="center" src="https://raw.githubusercontent.com/RBrooks76/RBrooks/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="550" width="100%" /> 
 
 <img align="center" src="https://metrics.lecoq.io/RBrooks76"/>
  <!-- ![GitHub metrics](https://metrics.lecoq.io/RBrooks76) -->
