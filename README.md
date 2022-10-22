@@ -13,7 +13,6 @@
   </a>
 </div>
 
-
 <br><br><br>
 <h2 align="left" id="macropower-tech">Github Stats</h2>
 
@@ -30,7 +29,8 @@
 </div>
 
 
-## Activties
+<br><br><br>
+## Github Activties
 
 ![GitHub metrics](https://metrics.lecoq.io/RBrooks76)
 
