@@ -29,6 +29,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RBrooks76&column=8&theme=gruvbox&border=61dafb&no-frame=false&margin-w=3&margin-h=5"/>
 </div>
 
+
+<h2 align="left" id="macropower-tech">Github Stats</h2>
  ![GitHub metrics](https://metrics.lecoq.io/RBrooks76)
 
 <img width=100% title="Coder Abhi." alt="RBrooks76" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
