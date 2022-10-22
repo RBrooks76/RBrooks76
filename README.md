@@ -30,6 +30,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/RBrooks76/RBrooks/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="550" width="100%" /> 
 
- ![GitHub metrics](https://metrics.lecoq.io/RBrooks76)
+<img align="center" src="https://metrics.lecoq.io/RBrooks76"/>
+ <!-- ![GitHub metrics](https://metrics.lecoq.io/RBrooks76) -->
 
 <img width=100% title="Coder Abhi." alt="RBrooks76" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
