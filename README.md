@@ -33,6 +33,7 @@
 ## Github Activties
 <div align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=RBrooks76&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
 ![GitHub metrics](https://metrics.lecoq.io/RBrooks76)
 
 </div>
